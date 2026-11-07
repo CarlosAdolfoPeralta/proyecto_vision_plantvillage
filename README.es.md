@@ -1,3 +1,4 @@
+🇬🇧 [Read in English](README.md)
 # Clasificación de enfermedades en hojas: de 99 % en laboratorio a 9 % en campo
 
 Proyecto de visión por computadora con PlantVillage: baseline con CNN propia, transfer learning con MobileNetV3-Small, interpretabilidad con Grad-CAM y una prueba de robustez con imágenes de campo (PlantDoc). Todo el entrenamiento se hizo **solo con CPU**.
